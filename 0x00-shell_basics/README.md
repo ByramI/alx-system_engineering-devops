@@ -7,3 +7,4 @@ craete a directory in /tmp/
 moving files
 bye betty
 deleting directory
+change working dir to the previous one
