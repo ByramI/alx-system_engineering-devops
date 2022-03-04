@@ -4,3 +4,4 @@ Script that prints the groups the current user is part of
 # a script that changes the owner of the file hello to the user
 Create an empty file called hello
 adds execute permission to the owner of the file hello
+multiple permissions
