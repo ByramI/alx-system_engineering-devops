@@ -2,3 +2,4 @@
 change working directory to home directory
 long format display
 display hidden files
+display current directory contents
