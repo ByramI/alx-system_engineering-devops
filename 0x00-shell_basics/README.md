@@ -5,3 +5,4 @@ display hidden files
 display current directory contents
 craete a directory in /tmp/
 moving files
+bye betty
