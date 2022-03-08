@@ -1,1 +1,1 @@
-Shell redirections readme file
+A script which prints a confused smiley
